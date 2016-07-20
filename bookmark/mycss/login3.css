@@ -1,0 +1,24 @@
+body
+ {
+  font-family:'Big Caslon','Book Antiqua','Palatino Linotype',Georgia,serif;
+  background-color:#74AFAD;
+  text-align:center;
+  height:100%;
+ }
+a
+{
+font-family:'Open Sans',sans-serif;
+ font-size:23px;
+ color:#0074D9;
+ text-decoration:none;
+}
+#password1
+ {
+   margin-top:-50px;
+   margin-left:800px;
+ }
+a:hover
+ {
+  color:;
+  text-decoration:none;
+ }

@@ -1,0 +1,99 @@
+@font-face{
+font-family:myfont;
+src:url('fonts/orbitron/webfonts/orbitron-bold-webfont.woff)');
+}
+@font-face{
+font-family:myfont2;
+src:url(fonts/orbitron/webfonts/orbitron-bold-webfont.woff);
+}
+@font-face{
+font-family:myfont3;
+src:url(fonts/orbitron/webfonts/orbitron-light-webfont.woff);
+}
+html
+{
+
+}
+.jumbotron{
+
+
+position:relative;
+font-family:myfont;
+background-color:#4A96AD;
+text-align:center;
+}
+body{
+ background-color:#0074D9;
+ font-family:myfont2;
+}
+#con1
+  {
+   padding-left:50px;
+    padding-top:2px;
+    margin-left:20px;
+   font-family:myfont3;
+    height:310px;
+    width:400px;
+    background-color:grey;
+     -moz-border-radius:20px;
+    border-radius:20px;
+  }
+.container
+ {
+ font-family:myfont2;
+  margin-top:10px;
+  height:360px;
+  background-color:#001f3f;
+   -moz-border-radius:20px;
+    border-radius:20px;
+  }
+.container2{
+ 
+ text-align:center;
+ background-color:#f2f2f2;
+ font-size:18px;
+ font-family:myfont3;
+ 
+ }
+ #log2{
+  
+ 
+ font-family:myfont2;
+  color:#000;
+  }
+  #log1{
+ 
+  color:#000;
+  font-family:myfont2;
+  }
+ #foo,#mera
+  {
+  font-family:'Big Caslon','Book Antiqua','Palatino Linotype',Georgia,serif;
+   background-color:#2ECC40;
+   font-size:25px;
+   }
+#con2
+  {
+   font-family:'Big Caslon','Book Antiqua','Palatino Linotype',Georgia,serif;
+    padding-left:80px;
+    margin-left:200px;
+    height:320px;
+    -moz-border-radius:20px;
+    border-radius:20px;
+    width:500px;
+    background-color:grey;
+  }
+#n11,#p11
+  {
+  font-family:myfont3;
+  color:#f2f2f2;
+  weight:20px;
+  }
+.btn-group
+  {
+  height:70px;
+ 
+  margin-top:-30px;
+ }
+
+ 
